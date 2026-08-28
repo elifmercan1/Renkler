@@ -1,0 +1,6 @@
+{
+  "name": "Renk Dünyası - Ana ve Ara Renkler",
+  "description": "İlkokul öğrencileri için ikili grup ve tekil modlarda ana ve ara renkleri öğrenme, karıştırma ve eğlenceli sembollerle interaktif oyun platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
